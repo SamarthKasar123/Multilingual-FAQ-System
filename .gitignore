@@ -44,4 +44,4 @@ ENV/
 *.rdb
 
 # Misc
-.DS_Store
+.DS_Store.env
